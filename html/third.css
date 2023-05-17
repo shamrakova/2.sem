@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+}
+#textSec {
+  position: relative;
+  top: 60px;
+  margin-left: 100px;
+  font-family: monospace;
+}
+#textThr {
+  position: relative;
+  margin-top: 120px;
+  margin-left: 100px;
+  font-family: monospace;
+}
+#textThr2 {
+  margin-left: 100px;
+  margin-top: 70px;
+  color: rgb(31, 31, 31);
+  text-decoration: underline cornflowerblue 2px;
+  font-family: monospace;
+}
+#search {
+  margin-left: 100px;
+  margin-top: 60px;
+  border-radius: 40px;
+  height: 30px;
+  width: 300px;
+  border-color: grey;
+}
+#buttonThr {
+  position: relative;
+
+  margin-left: 40px;
+  width: 120px;
+  height: 40px;
+  border-radius: 40px;
+  border: 0px;
+  background: rgb(22, 179, 236);
+  color: white;
+  font-family: monospace;
+}
+.buttonThr2 {
+  margin-left: 30px;
+  height: 40px;
+  width: 150px;
+  border-radius: 40px;
+  border-color: rgb(22, 179, 236);
+  color: rgb(22, 179, 236);
+  font-family: monospace;
+}
+#buttThr3 {
+  font-family: monospace;
+  width: 200px;
+}
+hr {
+  margin-top: 50px;
+}
+table {
+  margin-top: 50px;
+  margin-left: 40px;
+  border-spacing: 0px;
+}
+thead {
+  background: rgb(9, 37, 47);
+  border-color: rgb(12, 36, 45);
+  color: white;
+}
+#button2Sec {
+  position: relative;
+  top: 50px;
+  left: 1600px;
+  height: 35px;
+  width: 150px;
+  background-color: rgb(212, 65, 104);
+  border: 0;
+  color: white;
+  font-family: monospace;
+}

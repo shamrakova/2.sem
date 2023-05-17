@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+}
+#main {
+  background: rgb(22, 179, 236);
+  width: 700px;
+  height: 977px;
+}
+#text {
+  position: relative;
+  color: white;
+  margin-left: 30%;
+  top: 200px;
+  font-family: monospace;
+}
+hr {
+  position: relative;
+  top: 300px;
+  width: 270px;
+  margin-left: 230px;
+}
+#text2 {
+  position: relative;
+  color: white;
+  margin-left: 23%;
+  top: 300px;
+  font-family: monospace;
+}
+#mainSec {
+  position: relative
+  display: inline-block;
+  margin-left: 700px;
+  margin-top: -977px;
+  width: 1210px;
+  height: 977px;
+  font-family: monospace;
+}
+#textSec {
+  position: relative;
+  top: 60px;
+  margin-left: 150px;
+  font-family: monospace;
+}
+#text2Sec {
+  position: relative;
+  margin-left: 150px;
+  margin-top: 200px;
+  color: rgb(22, 179, 236);
+  font-family: monospace;
+}
+#text3Sec {
+  position: relative;
+  margin-left: 150px;
+  color: rgb(33, 33, 33);
+  font-family: monospace;
+}
+#input {
+  height: 30px;
+  width: 300px;
+  margin-left: 150px;
+  margin-top: 10px;
+  font-family: monospace;
+}
+#text4Sec {
+  margin-left: 150px;
+  margin-top: 90px;
+  color: rgb(32, 32, 32);
+  font-family: monospace;
+}
+#input2 {
+  position: relative;
+  height: 30px;
+  width: 300px;
+  margin-left: 150px;
+  top: 20px;
+  font-family: monospace;
+}
+#text5Sec {
+  position: relative;
+  margin-left: 150px;
+  top: 20px;
+  color: rgb(33, 33, 33);
+  font-family: monospace;
+}
+#buttonSec {
+  position: relative;
+  top: 80px;
+  left: -310px;
+  height: 35px;
+  width: 170px;
+  background: rgb(22, 179, 236);
+  color: white;
+  border: 0px;
+  font-family: monospace;
+}
+#text6Sec {
+  position: relative;
+  top: 130px;
+  margin-left: 150px;
+  font-family: monospace;
+}
+#text7Sec {
+  position: relative;
+  display: inline;
+  top: 105px;
+  margin-left: 300px;
+  color: rgb(22, 179, 236);
+  font-family: monospace;
+}
+#button2Sec {
+  position: relative;
+  top: 200px;
+  left: 150px;
+  height: 35px;
+  width: 150px;
+  background-color: rgb(187, 82, 100);
+  border: 0;
+  color: white;
+  font-family: monospace;
+}
